@@ -7,5 +7,4 @@ Arc-Project Is A Repository From GitHub The Purpose Of This Repository Was Creat
 - Application : Pydroid
 
 ## Update
-- Version     :
-- 
+- Version     : v1.0
