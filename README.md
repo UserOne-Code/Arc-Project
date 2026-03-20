@@ -8,3 +8,5 @@ Arc-Project Is A Repository From GitHub The Purpose Of This Repository Was Creat
 
 ## Update
 - Version     : v1.0
+- No Bug
+- No Ads
